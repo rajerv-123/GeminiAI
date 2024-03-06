@@ -71,7 +71,6 @@ function Main() {
                 <p>
                   {" "}
                   <p dangerouslySetInnerHTML={{ __html: resultData }}>
-                    {/* {resultData} */}
                   </p>
                 </p>
               )}
